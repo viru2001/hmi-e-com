@@ -1,6 +1,6 @@
-import Carousel1 from "./Carousel/pots.jpg";
-import Carousel2 from "./Carousel/vegetables.jpg";
-import Carousel3 from "./Carousel/farming_tools.png";
+import Carousel1 from "./Carousel/bicycles.webp";
+import Carousel2 from "./Carousel/bicycles.webp";
+import Carousel3 from "./Carousel/bicycles.webp";
 
 import tool1 from "./Products/tool1.jpg";
 import tool2 from "./Products/tool2.jpg";

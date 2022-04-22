@@ -8,21 +8,21 @@ import { Carousel1, Carousel2, Carousel3 } from "../../frontend/assets";
 export const categories = [
   {
     _id: uuid(),
-    categoryName: "Mud Utensils",
+    categoryName: "Hercules",
     img: Carousel1,
     imgAltText: "Mud Utensils",
     imgId: "monitor-img",
   },
   {
     _id: uuid(),
-    categoryName: "Vegetables",
+    categoryName: "BMX",
     img: Carousel2,
     imgAltText: "vegetables",
     imgId: "chair-img",
   },
   {
     _id: uuid(),
-    categoryName: "Farming Tools",
+    categoryName: "Mountain Bikes",
     img: Carousel3,
     imgAltText: "farming tools",
     imgId: "keyboard-img",
