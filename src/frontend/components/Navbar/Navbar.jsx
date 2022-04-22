@@ -29,7 +29,7 @@ const Navbar = () => {
           className="brand-name text-dec-none headline-lg font-wt-bold p-4 d-flex align-center"
           to="/"
         >
-          <span>Apna Dukan</span>
+          <span>Bicycle Store</span>
         </Link>
         <button
           id="hamburger-btn"
